@@ -1,0 +1,26 @@
+body {
+    background-color: #2fbb81;
+}
+
+#imagem_principal {
+    width: 30%;
+    height:50%;
+    border: 10px dotted red;
+    margin-left: 45%;
+}
+
+h1 {
+    text-align: center;
+}
+h2 {
+    color: #213B30;
+    text-align: center;
+    font-size: 30px;
+    border: 5px solid red;
+    padding: 30px;
+
+}
+p {
+    font-size: 20px;
+    text-align: justify;
+}
