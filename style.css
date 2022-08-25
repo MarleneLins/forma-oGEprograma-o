@@ -4,7 +4,7 @@ body {
 
 #imagem_principal {
     width: 30%;
-    height:50%;
+    height: 50%;
     border: 10px dotted red;
     margin-left: 45%;
 }
@@ -12,6 +12,7 @@ body {
 h1 {
     text-align: center;
 }
+
 h2 {
     color: #213B30;
     text-align: center;
@@ -20,12 +21,30 @@ h2 {
     padding: 30px;
 
 }
+
 p {
     font-size: 20px;
     text-align: justify;
 }
-#A{text-align: center;
-color:rgb(34, 34, 124)}
-.itens{font-style: italic;
-font-size: 20px;
-color:blue}
+
+#A {
+    text-align: center;
+    color: rgb(34, 34, 124)
+}
+
+.itens {
+    font-style: italic;
+    font-size: 20px;
+    color: blue
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 20%;
+    margin-top: 8;
+}
+
+.imagem2 {
+    width: 20%;
+}
